@@ -4,8 +4,8 @@
 
 本リポジトリは、以下の書籍に対応する Cisco Modeling Labs (CML) 用の初期トポロジ YAML ファイル（全55問：`Lab-01` 〜 `Lab-55`）を公開する公式リポジトリです。
 
-- **日本語版**：『AIが解く CCNA v2.0 Lab — TSHOOT編 実践55問 ー CMLで学ぶトラブルシューティング』
-- **英語版**：*AI-Solved CCNA v2.0 Labs: 55 Hands-On Troubleshooting Scenarios Verified on Cisco Modeling Labs*
+- **日本語版**：[『AIが解く CCNA v2.0 Lab — TSHOOT編 実践55問 ー CMLで学ぶトラブルシューティング』 (Amazon.co.jp)](https://www.amazon.co.jp/dp/B0HSSQ5THM)
+- **英語版**：[*AI-Solved CCNA v2.0 Labs: 55 Hands-On Troubleshooting Scenarios Verified on Cisco Modeling Labs* (Amazon.com)](https://www.amazon.com/dp/B0HSSSTSJ2)
 
 ## ディレクトリ構成
 
