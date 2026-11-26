@@ -5,7 +5,7 @@
 This repository provides the official Cisco Modeling Labs (CML) YAML topology files (55 hands-on troubleshooting labs: `Lab-01` – `Lab-55`) accompanying the book:
 
 - **English Edition**: [*AI-Solved CCNA v2.0 Labs: 55 Hands-On Troubleshooting Scenarios Verified on Cisco Modeling Labs* (Amazon.com)](https://www.amazon.com/dp/B0HSSSTSJ2)
-- **Japanese Edition**: [『AIが解く CCNA v2.0 Lab — TSHOOT編 実践55問 ー CMLで学ぶトラブルシューティング』 (Amazon.co.jp)](https://www.amazon.co.jp/dp/B0HSSQ5THM)
+- **Japanese Edition**: 『AIが解く CCNA v2.0 Lab — TSHOOT編 実践55問 ー CMLで学ぶトラブルシューティング』 — [Amazon.co.jp (Kindle)](https://www.amazon.co.jp/dp/B0HSSQ5THM) / [BOOTH (PDF)](https://moko-nw.booth.pm/items/9228137)
 
 ## Repository Structure
 
